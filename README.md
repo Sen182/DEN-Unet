@@ -27,8 +27,13 @@ The dataset can be accessed and downloaded here: https://www.cancerimagingarchiv
     -input
       -dsb128
         -images
-          -
+          -001.png
+          -002.png
+          ...
         -masks
+          -001.png
+          -002.png
+          ...
 
 ## Data Preparation
 
