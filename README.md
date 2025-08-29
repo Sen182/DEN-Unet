@@ -24,6 +24,12 @@ The LIDC-IDRI (Lung Image Database Consortium and Image Database Resource Initia
 
 The dataset can be accessed and downloaded here: https://www.cancerimagingarchive.net/collection/lidc-idri/
 
+    -input
+      -dsb128
+        -images
+          -
+        -masks
+
 ## Data Preparation
 
 ### Lung Parenchyma Extraction and Format Conversion
